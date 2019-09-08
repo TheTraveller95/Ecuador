@@ -1,0 +1,17 @@
+.main-header {
+    background-color: black;
+    height: 10vh;
+
+}
+
+.main-section {
+    background-color: red;
+    height: 80vh;
+
+}
+
+.main-footer {
+    background-color: yellow;
+    height: 10vh;
+
+}
