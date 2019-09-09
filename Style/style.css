@@ -1,22 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Pacifico&display=swap');
+
 
 body {
     background-image: url(https://cb18553f-23bd-4031-84e6-82744e9691dc.ws-eu0.gitpod.io/mini-browser/workspace/FirstCodeIntituteMilestone-HTML-CSS/Images/aluz-ecuador-crisol-de-paisajes-naturaleza-y-cultura-20743.jpeg)
 }
 
 .main-header {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
+
     background-color: rgba(107, 255, 255, 0.5);
-    height: 10vh;
+    height: 8vh;
 
 }
 
 .main-section {
     position: absolute;
-    top: 10vh;
-    bottom: 10vh;
+    top: 8vh;
+    bottom: 6vh;
     left: 0;
     right: 0;
 
@@ -29,7 +28,7 @@ body {
     left: 0;
     right: 0;
     background-color: rgba(255, 255, 255, 0.5);
-    height: 10vh;
+    height: 6vh;
 }
 
 .main-title {
@@ -37,9 +36,14 @@ body {
 }
 
 #ecuador {
-
+    font-family: "Pacifico", sans-serif;
+    font-size: 10rem;
+    color: #fafafa;
 }
 
 #region {
-
+    font-family: "Pacifico" , sans-serif;
+    font-size: 3rem;
+    color: aqua;
 }
+
