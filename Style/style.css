@@ -1,17 +1,45 @@
+
+body {
+    background-image: url(https://cb18553f-23bd-4031-84e6-82744e9691dc.ws-eu0.gitpod.io/mini-browser/workspace/FirstCodeIntituteMilestone-HTML-CSS/Images/aluz-ecuador-crisol-de-paisajes-naturaleza-y-cultura-20743.jpeg)
+}
+
 .main-header {
-    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(107, 255, 255, 0.5);
     height: 10vh;
 
 }
 
 .main-section {
-    background-color: red;
-    height: 80vh;
+    position: absolute;
+    top: 10vh;
+    bottom: 10vh;
+    left: 0;
+    right: 0;
+
 
 }
 
 .main-footer {
-    background-color: yellow;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.5);
     height: 10vh;
+}
+
+.main-title {
+    text-align: center;
+}
+
+#ecuador {
+
+}
+
+#region {
 
 }
