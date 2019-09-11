@@ -28,6 +28,20 @@ body, html {
     text-align: center;
 }
 
+#ecuador {
+    font-family: "Lobster", sans-serif;
+    color: #4E69FF;
+    text-shadow: 8px 8px 16px #000000;
+    font-size: 600%;
+}
+
+#four-worlds {
+    font-family: "Pacifico" , sans-serif;
+    color: rgb(0, 255, 0);
+    text-shadow: 8px 8px 16px #000000;
+    font-size: 250%;
+}
+
 .section {
     background: url(https://be3a1c6e-2280-4b54-be8d-899100ca8c19.ws-eu0.gitpod.io/mini-browser/workspace/FirstCodeIntituteMilestone-HTML-CSS/Images/aluz-ecuador-crisol-de-paisajes-naturaleza-y-cultura-20743.jpeg);
     height: 100%;
