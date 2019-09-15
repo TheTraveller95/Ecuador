@@ -47,12 +47,17 @@ nav {
 }
 
 .nav-text {
-    padding: 10px 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
-#contact {
-    padding: 0;
+#home {
+    padding-left: 20px;
 }
+
+
 
 .logo img {
     height: 60px;
@@ -64,7 +69,8 @@ nav {
 
 
 .main {
-    background-color: rgba(218, 138, 255, 0.5);
+    background-attachment: fixed;
+    background-image: url(https://live.staticflickr.com/65535/48722739588_1cff38c29c_b.jpg);
     background-size: cover;
     height: 100%;
     background-position: center;
@@ -149,5 +155,18 @@ nav {
     left: 0;
     height: 25px;
     background-color: yellow;
+}
+
+.social {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+.social li {
+    display: inline-block;
+  font-size: 20px;
+
 }
 
