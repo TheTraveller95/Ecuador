@@ -162,16 +162,21 @@ nav {
     text-align: center;
     padding: 15px;
     color: #000000;
-    height: 105%;
+    height: 50%;
 }
 
 .image-text a {
     color: rgb(0, 37, 160);
+    height: 20px;
+    font-weight: 700;
 }
 
 .image-text a:hover {
     text-decoration: none;
+    color: red;
 }
+
+
 
 /*------------------------------------------------------------------------FOOTER---------------*/
 
