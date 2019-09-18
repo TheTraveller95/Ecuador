@@ -180,16 +180,23 @@ nav {
 
 /*--------------!!!COAST!!!-------------*/
 
+#content-region {
+    margin: 0px 50px;
+}
+
 .intro {
-    margin-right: 50px;
-    margin-left: 50px;
-    border-left-width: 15px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 15px 20px;
     text-align: justify;
 }
 
+#column-gallery {
+    max-width: 30%;
+}
 
+.gallery {
+    padding-top: 15px;
+    max-width: auto;
+}
 
 /*------------------------------------------------------------------------FOOTER---------------*/
 
