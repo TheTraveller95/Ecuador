@@ -226,7 +226,13 @@ nav {
     max-width: auto;
     margin-left: auto;
     margin-right: auto;
+    height: 300px;
 }
+
+.map {
+         margin-left: 50px;
+         margin-right: 110px;
+     }
 
 
 
@@ -272,7 +278,7 @@ nav {
 
 /*----------------------------media-----------------*/
 
-@media (max-width: 823px) {
+@media (max-width:414px) {
     .intro {
         width: 95vw;
         margin-left: auto;
@@ -284,21 +290,17 @@ nav {
         margin-right: 10px;
     }
 
-    #column-gallery {
-        max-width: 40vw;
-        text-align: center;
-        display:inline-block;
-        margin:0 auto;
-        margin-left: 5px;
+
+
+
+
+
+    .map {
+        margin-left: 20px;
+        margin-right: 32px;
     }
 
-    #column-gallery a {
-        width: 35vw;
-        margin: auto;
-        padding: 0;
-    }
-
-     #column-gallery a img {
-         width: 35vw;
-     }
 }
+
+
+
