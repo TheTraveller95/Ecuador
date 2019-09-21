@@ -148,12 +148,14 @@ nav {
 
 }
 
-.image-costa,
-.image-sierra,
-.image-amazonia,
-.image-galapagos {
-
+.image-costa, {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
 }
+
+
+
 
 .image-costa-circle,
  .image-sierra-circle,
@@ -165,6 +167,84 @@ nav {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.container2 {
+  position: relative;
+}
+
+
+.overlay-costa {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 220px;
+  width: 220px;
+  border-radius: 50%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgba(186, 12, 0, 0.37);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.overlay-sierra {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 220px;
+  width: 220px;
+  border-radius: 50%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgba(0, 87, 186, 0.37);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.overlay-amazonia {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgba(5, 109, 40, 0.37);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.overlay-galapagos {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgba(0, 102, 186, 0.37);
+    margin-left: auto;
+    margin-right: auto;      
+}
+
+.container2:hover .overlay-costa,
+.container2:hover .overlay-sierra, 
+.container2:hover .overlay-amazonia, 
+.container2:hover .overlay-galapagos  {
+  opacity: 1;
 }
 
 .image-text {
