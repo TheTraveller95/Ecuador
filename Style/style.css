@@ -115,6 +115,13 @@ nav {
     font-size: 600%;
 }
 
+/*#islands {
+    font-family: "Lobster", sans-serif;
+    color: #4E69FF;
+    text-shadow: 8px 8px 16px #000000;
+    font-size: 600%;
+}*/
+
 #four-worlds {
     font-family: "Pacifico" , sans-serif;
     color: rgb(0, 255, 0);
@@ -394,6 +401,14 @@ nav {
         margin-left: 10px;
         margin-right: 10px;
     }
+
+
+    #ecuador {
+    font-family: "Lobster", sans-serif;
+    color: #4E69FF;
+    text-shadow: 8px 8px 16px #000000;
+    font-size: 500%;
+}
 
 
 
