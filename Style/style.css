@@ -358,6 +358,36 @@ nav {
     padding: 1% 2%;
 }
 
+.name-email {
+    text-align: center;
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name,
+.email {
+    display: inline-block;
+    width: 42.5%;
+}
+
+.form-name,
+.form-email {
+    width: 100%;
+}
+
+.text {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.form-text {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    width: 85.7%;
+}
 
 /*------------------------------------------------------------------------FOOTER---------------*/
 
