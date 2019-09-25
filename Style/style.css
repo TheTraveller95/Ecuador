@@ -281,6 +281,8 @@ nav {
 .intro {
     padding: 15px 20px;
     text-align: justify;
+    font-family: "Courgette", sans-serif;
+    font-size: 20px;
 }
 
 #container-gallery {
