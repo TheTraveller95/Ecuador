@@ -282,7 +282,8 @@ nav {
     padding: 15px 20px;
     text-align: justify;
     font-family: "Courgette", sans-serif;
-    font-size: 20px;
+    font-size: 105%;
+
 }
 
 #container-gallery {
@@ -329,6 +330,18 @@ nav {
     /*height: 45%;*/
 }
 
+.img-gallery-coast {
+    padding-top: 15px;
+    width: 50%;
+    height: 45%;
+}
+
+.img-gallery-amazon {
+    padding-top: 15px;
+    width: 50%;
+    height: 47%;
+}
+
 .img-gallery-andes {
     padding-top: 15px;
     /*max-width: auto;
@@ -336,6 +349,12 @@ nav {
     margin-right: 1%;
     height: 300px;*/
     width: 75%;
+}
+
+.img-gallery-galapagos {
+    padding-top: 15px;
+    width: 50%;
+    height: 42%;
 }
 
 .map {
