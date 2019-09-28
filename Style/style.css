@@ -370,14 +370,16 @@ nav {
     padding-top: 1%;
 }
 
-.content p {
+.about {
+    padding: 15px 20px;
     text-align: justify;
-    padding: 1% 2%;
+    font-family: "Courgette", sans-serif;
+    font-size: 105%;
 }
 
 .name-email {
     text-align: center;
-    width: 75vw;
+    width: 60%;
     margin-left: auto;
     margin-right: auto;
 }
