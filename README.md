@@ -3,7 +3,8 @@
 In the Pacific coast of South America, just crossed by the Ecuadorian line, we can find one of the most amazing countries in the world.
 Its beautiful coasts, its high mountains and volcanos, the wild Amazoninan Rainforest in the west side and those islands, which helped Dariwn
 with that book that changed the way to look at the human being, attract thousands of tourists every years.
-I am speaking about Ecuador, a little country with 4 different worlds inside it.
+I am speaking about Ecuador, a little country with 4 different worlds inside it. Ecuador is the perfect destination if you are looking for
+fun or relax or adventure and it is also perfect if you go alone or with your family.
 
 ## UX
 
