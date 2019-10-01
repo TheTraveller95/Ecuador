@@ -8,7 +8,9 @@ fun or relax or adventure and it is also perfect if you go alone or with your fa
 
 ## UX
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+As for the project's title, the main goal of this webside is to inform about Ecuador and its geological structure. The website is
+focused to that people who are looking for trvel destination ideas or just someone who needs a general overview on the country for a personal
+project or school homworks.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 - As a user type, I want to perform an action, so that I can achieve a goal.
@@ -17,7 +19,35 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+The project is divided in 6 html files and one css file in order to style them all.
+
+#### Home page
+
+You can find the home page in the index.html file.
+It has the same main structure (and background image) as the other pages and its divided as below:
+
+- the header is composed by a navbar where we can find the Ecuadorian flag (that also works as an home link) and the two main links
+    - the "home" link that always brings the user to the homepage and the "about" link for the About page
+
+- then we can find the main and secondary titles (differents in each region) followed by a section with an introductory photo of the region
+  and a little captive description in order to grab the users's attemption. The photos also work as link to the different regions pages.
+
+- at the very bottom of the page you will find the social networks link (Instagram, LinkedIn and Twitter)
+
+#### Regions pages
+
+All the regions pages share the same structure
+
+- a little descriptive introduction which gives some info about the topic
+
+- a photo gallery with 6 or 4 photos depending on the screen size (each photo can be viewed full screen just clicking on it)
+
+- a map (Google map) that should help the user in order to locate the region in the country.
+
+#### About page
+
+The "about" page is focused on who I am and why I chose Ecuador as main topic in the project.
+It also provide a "fake" form in order to submit any question the user could have related to Ecuador
 
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
