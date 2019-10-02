@@ -463,6 +463,14 @@ nav {
         margin-right: auto;
     }*/
 
+    body {
+    background-attachment: fixed;
+    background-image: url(https://live.staticflickr.com/65535/48722739588_1cff38c29c_b.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    }
 
     #content-region {
         margin-left: 10px;
