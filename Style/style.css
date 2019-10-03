@@ -89,10 +89,6 @@ nav {
 
 /*----------!!!HOME!!!--------------*/
 
-.main {
-
-}
-
 .main-div {
     margin-left: auto;
     margin-right: auto;
@@ -114,13 +110,6 @@ nav {
     text-shadow: 8px 8px 16px #000000;
     font-size: 600%;
 }
-
-/*#islands {
-    font-family: "Lobster", sans-serif;
-    color: #4E69FF;
-    text-shadow: 8px 8px 16px #000000;
-    font-size: 600%;
-}*/
 
 #four-worlds {
     font-family: "Pacifico" , sans-serif;
@@ -165,9 +154,9 @@ nav {
 
 
 .image-costa-circle,
- .image-sierra-circle,
- .image-amazonia-circle,
- .image-galapagos-circle {
+.image-sierra-circle,
+.image-amazonia-circle,
+.image-galapagos-circle {
     height: 220px;
     width: 220px;
     border-radius: 50%;
@@ -296,38 +285,15 @@ nav {
     text-align: center;
 }
 
-/*
-
-.column-gallery {
-    max-width: 30%;
-    padding-left: 5px;
-    padding-right: 5px;
-}
-
-#column-gallery-one,
-#column-gallery-two,
-#column-gallery-three {
-    width: ;
-}*/
-
-
 
 .photo {
-    /*margin-left: 60px;
-    margin-right: 60px;*/
     width: 50%;
     height: 70%;
-
 }
 
 .img-gallery {
     padding-top: 15px;
-    /*max-width: auto;
-    margin-left: 7%;
-    margin-right: 1%;
-    height: 300px;*/
     width: 50%;
-    /*height: 45%;*/
 }
 
 .img-gallery-coast {
@@ -344,10 +310,6 @@ nav {
 
 .img-gallery-andes {
     padding-top: 15px;
-    /*max-width: auto;
-    margin-left: 7%;
-    margin-right: 1%;
-    height: 300px;*/
     width: 75%;
 }
 
@@ -430,10 +392,6 @@ nav {
     padding-left: 200px;
 }
 
-.icons {
-
-}
-
 .div-social i  {
     display: inline-block;
     box-shadow: 0px 0px 2px #888;
@@ -448,7 +406,6 @@ nav {
     vertical-align: middle;
     margin-top: 2.5px;
     margin-bottom: 2.5px;
-
 }
 
 
@@ -457,11 +414,6 @@ nav {
 /*----------------------------media-----------------*/
 
 @media (max-width:414px) {
-    /*.intro {
-        width: 95vw;
-        margin-left: auto;
-        margin-right: auto;
-    }*/
 
     body {
     background-attachment: fixed;
@@ -483,18 +435,7 @@ nav {
     color: #4E69FF;
     text-shadow: 8px 8px 16px #000000;
     font-size: 500%;
-}
-
-
-
-
-
-
-
-   /* .map {
-        margin-left: 20px;
-        margin-right: 32px;
-    }*/
+    }
 
 }
 
