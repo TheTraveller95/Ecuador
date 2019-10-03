@@ -97,6 +97,7 @@ nav {
 
 .section {
     margin: auto;
+    margin-top: 75px;
     width: 100%;
 }
 
@@ -120,6 +121,11 @@ nav {
 
 .content {
     background-color: rgba(250, 250, 250, 0.75);
+}
+
+.circle {
+    margin-top: 30px;
+    margin-bottom: 25px;
 }
 
 .col-costa,
@@ -384,6 +390,7 @@ nav {
     right: 0;
     left: 0;
     background-color: transparent;
+    margin-bottom: 15px;
 }
 
 .social {
@@ -438,6 +445,8 @@ nav {
     #content-region {
         margin-left: 10px;
         margin-right: 10px;
+        margin-top: 30px;
+        margin-bottom: 25px;
     }
 
 
