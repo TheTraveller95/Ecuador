@@ -76,7 +76,13 @@ In particular they had to test the form located in the About page and check if a
 with an "error" message.
 The other specific task they needed to test was the good functionality of the photo gallery. Once they clicked on one of the photos, it should have been displayed full screen
 with the option to switch from one to the following/previous one.
-All the feedbacks have been positive.
+Most of the feedbacks have been positive.
+
+The only negative feedbacks came from iOS users, who faced a background image completely stretched (did not make any difference if was an iPhone or an Ipad, if they were using Safari or Chrome). As I could not find anything related to this
+problem in internet, I asked for help to the Code Insitute's tutors who said that was probably due to the fact that GitHub was not loading the
+image correctly in the iOS devices. So they give me a workaround changing the CSS background-attachment attribute from fixed to scroll for the screen up to 414px wide.
+
+
 
 
 
@@ -101,7 +107,21 @@ In order to run the code locally you need to click on the Clone or Download butt
 and from the [Wikipedia article titled "Galápagos Islands"](https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands)
 
 ### Media
-- The photos used in this site were obtained from ...
+
+- Some of the photos used in this site come from my personal gallery
+- You will find the other ones vsiting the following pages
+    - https://dissolve.com/stock-photo/Morpho-butterfly-displaying-leaf-Morpho-achilles-Amazonia-royalty-free-image/101-D1267-37-069
+    - https://www.tes.com/lessons/e4TiG8B7SG8NQg/copy-of-save-the-rain-forest
+    - https://www.firesideadventures.ca/amazonia-indigenous-roots-of-ecuador
+    - https://www.ecuadortv.ec/noticias/actualidad/ampliara-zona-intangible-amazon%C3%ADa-ecuatoriana
+    - https://www.selina.com/ecuador/amazon-tena/
+    - https://es.wikipedia.org/wiki/Saguinus_tripartitus
+    - https://www.newscientist.com/article/2197998-the-waters-of-the-galapagos-islands-are-being-invaded-by-alien-species/
+    - https://www.kuoni.co.uk/ecuador-and-galapagos/the-galapagos-islands
+    - https://aladdintravel.com/college-spring-break/galapagos-seal/
+    - https://www.theglobetrottergp.com/the-galapagos-islands-wildlife-paradise-and-a-whole-lot-of-boobies-part-1-the-eastern-islands/
+    - https://www.galapagosunbound.com/blog
+    - https://www.voyagers.travel/wonders-3/
 
 ### Acknowledgements
 
