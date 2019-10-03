@@ -94,7 +94,11 @@ In order to run the code locally you need to click on the Clone or Download butt
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text for section Coast was copied from the [Ecuador.com article titled "TRAVEL THE PACIFIC COAST IN ECUADOR, CITIES, TRAVEL DESTINATIONS"](http://www.ecuador.com/regions/costa-coastline/)
+- The text for section Andes was copied from the [Ecuador.com article titled "TRAVEL ECUADOR’S ANDES MOUNTAINS, TRAVEL DESTINATIONS"](http://www.ecuador.com/regions/sierra-andes/)
+- The text for section Amazon was copied from the [Ecuador.com article titled "TRAVEL THE AMAZON IN ECUADOR, TRAVEL DESTINATIONS"](http://www.ecuador.com/regions/oriente-amazon/)
+- The text for section Galapagos Islands was copied from the [Ecuador.com article titled "TRAVEL TO THE GALAPAGOS ISLANDS IN ECUADOR, TRAVEL DESTINATIONS"](http://www.ecuador.com/regions/galapagos-islands/)
+and from the [Wikipedia article titled "Galápagos Islands"](https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands)
 
 ### Media
 - The photos used in this site were obtained from ...
