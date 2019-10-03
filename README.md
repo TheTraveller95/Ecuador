@@ -105,4 +105,5 @@ and from the [Wikipedia article titled "Galápagos Islands"](https://en.wikipedi
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from the experience and knowledge about the main topic I got living in Ecuador.
+- About the coding related technical knowledge, the https://www.w3schools.com website really helped me a lot
