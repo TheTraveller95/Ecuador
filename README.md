@@ -82,14 +82,13 @@ All the feedbacks have been positive.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+The project deployment has been done using GitHub.
+After signing up to the GitHub portal, I created a new repository called Ecuador and I made it pubblic.
+After that I signed up to the online IDE GitPod and connected it to my GitHub profile by adding the GitPod browser extention.
+The pubblic accessible web link of my project has been deployed by going to GitHub --> Ecuador repository --> Settings --> scrolling down until GitHub Pages and
+changing the first option from None to Master Branch.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
+In order to run the code locally you need to click on the Clone or Download button. There you have 2 option, or download the zip directly or run the command XXXXXXX and paste the link provided.
 
 
 ## Credits
