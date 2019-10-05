@@ -12,10 +12,7 @@ As for the project's title, the main goal of this webside is to inform about Ecu
 focused to that people who are looking for trvel destination ideas or just someone who needs a general overview on the country for a personal
 project or school homworks.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+In order to see some of this project mockups, please find them inside the Mockups folder.
 
 ## Features
 
@@ -83,9 +80,6 @@ problem in internet, I asked for help to the Code Insitute's tutors who said tha
 image correctly in the iOS devices. So they give me a workaround changing the CSS background-attachment attribute from fixed to scroll for the screen up to 414px wide.
 
 
-
-
-
 ## Deployment
 
 The project deployment has been done using GitHub.
@@ -126,4 +120,4 @@ and from the [Wikipedia article titled "Galápagos Islands"](https://en.wikipedi
 ### Acknowledgements
 
 - I received inspiration for this project from the experience and knowledge about the main topic I got living in Ecuador.
-- About the coding related technical knowledge, the https://www.w3schools.com website really helped me a lot
+- About the coding related technical knowledge, the https://www.w3schools.com website really helped me a lot.
