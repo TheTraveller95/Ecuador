@@ -55,8 +55,8 @@ and providing his/her name and email address (mandatory)
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
+- [bootstrap](https://getbootstrap.com/docs/4.3/getting-started/download/)
+- [fontawesome](https://fontawesome.com/icons?d=gallery)
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** for the implementation of the photo gallery.
 
@@ -66,7 +66,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 The first tests about the good website functionality have been done locally, using the Google Chrome tool. Using it I was able to test the project trough a big device variety
 and in a responsive environment.
 Once everyhting looked good in the Chrome environmnet, the project has been tested in the others browsers (Mozilla, IE and Edge)
-The wesite has then been tested in fisical differet devices (iPad, iPhone 8 and Honor 9) and after the good feedback has been sent to multiple contacts in order to test it
+The wesite has then been tested in phisical differet devices (iPad, iPhone 8 and Honor 9) and after the good feedback has been sent to multiple contacts in order to test it
 in more devices as possible.
 All of them has been given some specific tasks in order to test each one of the critical features of the project.
 In particular they had to test the form located in the About page and check if after submitting a question whitout providing an email address or a name the form will respond
@@ -82,13 +82,11 @@ image correctly in the iOS devices. So they give me a workaround changing the CS
 
 ## Deployment
 
-The project deployment has been done using GitHub.
-After signing up to the GitHub portal, I created a new repository called Ecuador and I made it pubblic.
-After that I signed up to the online IDE GitPod and connected it to my GitHub profile by adding the GitPod browser extention.
+The project deployment has been done using GitHub pages.
 The pubblic accessible web link of my project has been deployed by going to GitHub --> Ecuador repository --> Settings --> scrolling down until GitHub Pages and
 changing the first option from None to Master Branch.
 
-In order to run the code locally you need to click on the Clone or Download button. There you have 2 option, or download the zip directly or run the command XXXXXXX and paste the link provided.
+In order to run the code locally you need to click on the Clone or Download button. There you have 2 option, or download the zip directly or run the command git clone https://github.com/TheTraveller95/Ecuador.git.
 
 
 ## Credits

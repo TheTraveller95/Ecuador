@@ -37,8 +37,6 @@ nav {
 }
 
 
-
-
 .ul-nav {
     list-style-type: none;
     margin: 0;
@@ -112,6 +110,13 @@ nav {
     font-size: 600%;
 }
 
+#galapagos {
+    font-family: "Lobster", sans-serif;
+    color: #4E69FF;
+    text-shadow: 8px 8px 16px #000000;
+    font-size:400%;
+}
+
 #four-worlds {
     font-family: "Pacifico" , sans-serif;
     color: rgb(0, 255, 0);
@@ -150,13 +155,6 @@ nav {
     font-weight: 500;
 
 }
-
-/*.image-costa, {
-    width: 220px;
-    height: 220px;
-    border-radius: 50%;
-}*/
-
 
 .image-costa-circle,
 .image-sierra-circle,
