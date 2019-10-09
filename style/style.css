@@ -352,6 +352,26 @@ nav {
     width: 80%;
 }
 
+.back-home-div a {
+   width: 45px;
+    height: 45px;
+    text-decoration: none;
+}
+
+#back-to-home {
+    width: 45px;
+    height: 45px;
+    font-size: 45px;
+}
+
+.back-home-span {
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 10px;
+    font-family: "Pacifico", sans-serif;
+    font-size: 20px;
+}
+
 /*-------------------------!!!ABOUT!!!----------------------------------*/
 
 .content h3 {
