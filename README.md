@@ -8,7 +8,7 @@ fun or relax or adventure and it is also perfect if you go alone or with your fa
 
 ## UX
 
-As for the project's title, the main goal of this webside is to inform about Ecuador and its geological structure. The website is
+As for the project's title, the main goal of this website is to inform about Ecuador and its geological structure. The website is
 focused to that people who are looking for trvel destination ideas or just someone who needs a general overview on the country for a personal
 project or school homworks.
 
@@ -58,8 +58,6 @@ and providing his/her name and email address (mandatory)
 - [bootstrap](https://getbootstrap.com/docs/4.3/getting-started/download/)
 - [fontawesome](https://fontawesome.com/icons?d=gallery)
 - [JQuery](https://jquery.com)
-    - The project uses **JQuery** for the implementation of the photo gallery.
-
 
 ## Testing
 
@@ -86,7 +84,7 @@ The project deployment has been done using GitHub pages.
 The pubblic accessible web link of my project has been deployed by going to GitHub --> Ecuador repository --> Settings --> scrolling down until GitHub Pages and
 changing the first option from None to Master Branch.
 
-In order to run the code locally you need to click on the Clone or Download button. There you have 2 option, or download the zip directly or run the command git clone https://github.com/TheTraveller95/Ecuador.git.
+In order to run the code locally you need to click on the Clone or Download button. There you have 2 option, or download the zip directly or run the command "git clone https://github.com/TheTraveller95/Ecuador.git" in your machine's terminal after having navigated to the folder you want to save the code into.
 
 
 ## Credits
